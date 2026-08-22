@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.next/
+*.tgz
+test-results/
+playwright-report/
+blob-report/
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
