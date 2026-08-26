@@ -2,6 +2,8 @@
 
 Visual cache observability and debugging for Next.js.
 
+GitHub: [RanjbarAli/next-cache-lens](https://github.com/RanjbarAli/next-cache-lens)
+
 Next Cache Lens is a lightweight developer tool for understanding cache behavior in Next.js applications. It shows observed cache activity, tags, invalidations, hit rates, lifetimes, and evidence-backed relationships without exposing cached values or relying on private Next.js internals.
 
 ## Why
